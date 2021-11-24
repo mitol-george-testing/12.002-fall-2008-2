@@ -1,0 +1,34 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Planetary Science"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "37f1e70c-6566-4bff-9f87-4d42cd0f8593",
+      "7959300e-3058-efc7-f9aa-54bc9d30a411"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Physics and Chemistry of the Terrestrial Planets",
+  "course_description": "This course introduces the structure, composition, and physical processes governing the terrestrial planets, including their formation and basic orbital properties. Topics include plate tectonics, earthquakes, seismic waves, rheology, impact cratering, gravity and magnetic fields, heat flux, thermal structure, mantle convection, deep interiors, planetary magnetism, and core dynamics. Suitable for majors and non-majors seeking general background in geophysics and planetary structure.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.002",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
